@@ -6,6 +6,15 @@
 
 *Dashboards, scrutiny workflows and an immersive 3D document-verification journey.*
 
+<p align="center">
+  <a href="https://aictepragyan.vercel.app" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Click+Me;AICTE+Pragyan+Platform"
+      alt="Visit Pragyan - AICTE Pragyan Platform"
+    />
+  </a>
+</p>
+
 <br/>
 
 ![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
