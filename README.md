@@ -11,7 +11,7 @@
   <a href="https://aictepragyan.vercel.app" target="_blank">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Visit+Pragyan;AICTE+Pragyan+Platform"
-      alt="Visit Pragyan - AICTE Pragyan Platform"
+      alt="Visit Pragyan - AICTE Pragyan Platform - Click Me"
     />
   </a>
 </p>
