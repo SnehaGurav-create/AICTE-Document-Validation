@@ -7,7 +7,7 @@
 *Smarter scrutiny for technical institution applications, built for the AICTE Regulation Bureau.*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Visit Pragyan+[Ideas](https://aictepragyan.vercel.app/);" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Visit Pragyan+https://aictepragyan.vercel.app;" alt="Typing introduction" />
 </p>
 
 <br/>
